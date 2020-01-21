@@ -70,6 +70,10 @@ Result:
 
 I was able to load the the textures but the program got really slow and you had and you have to wait to see the effect.
 
+Endresult:
+
+![image-20200121094147043](README.assets/image-20200121094147043.png)
+
 ### Sources
 
 http://planetpixelemporium.com/
